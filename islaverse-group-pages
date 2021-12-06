@@ -1,4 +1,10 @@
-<lj-raw><div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-end;font-family:trebuchet ms,arial,sans serif;font-size:12px;line-height:1.7;color:#222;text-align:justify;">
+<div style="display: block; margin-left: 20px; transform: rotate(-1deg); font-family: verdana, sans-serif; font-size: 9pt; line-height: 12px; letter-spacing: 1px; margin-top: 30px;">
+<center><a href="_" style="text-decoration: none;">GROUP #</a></center>
+</div>
+
+<span style="display:none;"><lj-cut></span>
+
+<lj-raw><div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-end;font-family:arial,sans serif;font-size:12px;line-height:1.7;color:#222;text-align:justify;">
 
 
 
@@ -69,4 +75,4 @@
 
 
 <div style="width:100%;text-align:center;font-size:8px;letter-spacing:2px;"><a href="http://tessisamess.insanejournal.com/" style="color:#999;text-decoration:none;">CODING</a></div>
-</div></lj-raw>
+</div></lj-raw></lj-cut>
